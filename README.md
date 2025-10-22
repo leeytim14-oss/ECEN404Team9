@@ -1,0 +1,1 @@
+This repo is for the code that was pushed onto our CAPSTONE's Jetson Orin Nano and the Raspberry PI. The main code that was pushed were two python scripts and a jupyter notebook from Google Colab for training the model.
